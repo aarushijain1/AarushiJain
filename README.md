@@ -25,7 +25,7 @@
 ## 🏆 GitHub Stats
 
 
-  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aarushijain1&theme=react&show_icons=true&count_private=true" />&nbsp;&nbsp;<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushijain1&layout=compact&theme=react"/>
+  <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aarushijain1&theme=react&show_icons=true&count_private=true" />&nbsp;&nbsp;
  
 
 
