@@ -4,7 +4,7 @@
 
 <br>
 <a href="https://www.linkedin.com/in/aarushi-jain-8b7bbb256/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-&ensp;<a href="mailto:aarushijain1014@gmail.com"><img  width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
+&ensp;<a href="mailto:aarushijain1015@gmail.com"><img  width="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /></a>
 &ensp;<a href="https://github.com/aarushijain1"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="30"/></a>&ensp;
 <br>
  
